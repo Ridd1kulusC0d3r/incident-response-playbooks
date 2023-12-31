@@ -3,7 +3,6 @@
 
 Welcome to the Incident Response Playbooks repository! We're creating these playbooks with the knowledge gained from [LetsDefend](https://letsdefend.io/) to assist security experts in responding to various security incidents effectively. Whether you're new to incident response or a seasoned professional, you'll find valuable resources here to help you navigate and mitigate security threats.
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
